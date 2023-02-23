@@ -3,6 +3,7 @@
 
 ## Lieu de l'exposition ##
 2020 rue William
+
 ![image](https://user-images.githubusercontent.com/112189073/220955620-90c50643-2912-4ae0-b87f-497656d41033.png)
 
 source: Google Map
@@ -12,10 +13,12 @@ L'exposition est d'intérieur. J'ai visité cette oeuvre le 2 février 2023.
 
 ## Titre de l'oeuvre ##
 Doku The Self
+
 ![image](https://user-images.githubusercontent.com/112189073/220956667-a5e314e2-3d2c-4099-aaf4-b148e6a39694.png)
 
 ## Nom de l'artiste ##
 LU Yang
+
 ![image](https://user-images.githubusercontent.com/112189073/220956817-6690a0e4-30da-46c2-ac92-dde1af30ff0a.png)
 
 ## L'année de réalisation ##
@@ -26,4 +29,35 @@ LU Yang
 
 ## Type d'installation ##
 L'insatallation est contemplatif.
-![image](https://user-images.githubusercontent.com/112189073/220958503-7b7a6fc1-0c0e-4d94-9e7e-a27779e77eb0.png)
+
+## Mise en espace ##
+5 bancs:
+
+![image](https://user-images.githubusercontent.com/112189073/220958928-b00269ad-cd00-4422-98c7-b457e5d3557c.png)
+
+4 projecteurs:
+
+![image](https://user-images.githubusercontent.com/112189073/220959078-fc5f5372-b0fb-43fb-8da9-c43b8ad7f21c.png)
+
+1 écran: 
+
+![image](https://user-images.githubusercontent.com/112189073/220959212-9700b942-c846-4d58-b80b-cc00abd2454e.png)
+
+1 projecteur:
+
+![image](https://user-images.githubusercontent.com/112189073/220959507-f9aebd6b-76b8-4fd8-8310-41b35aed27a6.png)
+
+
+Le croquis: 
+
+![image](https://user-images.githubusercontent.com/112189073/220959327-4946da4b-5b9f-4f80-9294-157f280e79af.png)
+
+
+## Éléments necessaires à la mise en exposition ##
+Je n'ai pas de photo mais une clé USB qui a le contenu de l'oeuvre.
+
+
+## Expérience vécue ##
+voici une coutre vidéo qui montre une partie de l'oeuvre.
+
+https://www.youtube.com/watch?v=sb_QOTGfXsU
