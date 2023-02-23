@@ -77,6 +77,8 @@ Je n'ai pas la photo exacte de la clé USB mais elle devrait ressemblé à ceci.
 
 ![image](https://user-images.githubusercontent.com/112189073/220965458-3a7cd825-9d81-4dbc-bed6-1824e167ebf9.png)
 
+source: https://addison-electronique.com/produits/informatique-et-mobile/memoire/usb-3-memoire/cle-usb-c-3-2-64-go/
+
 
 
 ## Expérience vécue ##
