@@ -1,2 +1,2 @@
 ## BIAN 6 , Mutation ## 
-image/affiche.md
+![l'affiche](image/affiche.md)
