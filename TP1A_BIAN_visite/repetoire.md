@@ -3,4 +3,5 @@
 
 ## Lieu de l'exposition ##
 ![image](https://user-images.githubusercontent.com/112189073/220955620-90c50643-2912-4ae0-b87f-497656d41033.png)
-![source: Google Map]
+
+source: Google Map
