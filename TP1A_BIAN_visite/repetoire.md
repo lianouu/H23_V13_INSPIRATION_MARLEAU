@@ -73,7 +73,10 @@ Le croquis:
 
 
 ## Éléments necessaires à la mise en exposition ##
-Je n'ai pas de photo mais une clé USB qui a le contenu de l'oeuvre.
+Je n'ai pas la photo exacte de la clé USB mais elle devrait ressemblé à ceci.
+
+![image](https://user-images.githubusercontent.com/112189073/220965458-3a7cd825-9d81-4dbc-bed6-1824e167ebf9.png)
+
 
 
 ## Expérience vécue ##
