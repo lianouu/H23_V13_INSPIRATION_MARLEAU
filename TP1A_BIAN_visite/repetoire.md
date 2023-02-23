@@ -37,6 +37,8 @@ LU Yang
 
 
 ## Description de l'oeuvre ##
+C'est une oeuvre Vidéo HD qui dure 36 minutes
+
 ![image](https://user-images.githubusercontent.com/112189073/220957295-49d81ece-da9c-43ea-b074-2af65a2dea71.png) ![image](https://user-images.githubusercontent.com/112189073/220957368-8fb8c273-3c7d-4c9b-a939-ef58da2df660.png)
 
 
