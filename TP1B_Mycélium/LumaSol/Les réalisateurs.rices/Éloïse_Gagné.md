@@ -1,4 +1,4 @@
-# Tâche de ce projet: #
+# Tâches de ce projet: #
 * Coordination technique
 * Principalement chargé de la partie Sonore du projet
 * Issues GitHUb assigné
