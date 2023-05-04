@@ -51,21 +51,21 @@ Je pense que l'installation sera impréssenante enb rapport avec le monde marin 
 
 ## [Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
-### Créateurs/Créatrices
+## Réalisateurs de ce projet: ##
 
 Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
 ### Lien avec Mycelium
 
-C'est un projet qui essaie de crée un environment immersif, inspiré par la nature (Mycélium).
+C'est un projet qui immerge la nature et l'effort physique (les jambes).
 
 ### L'installation en cours
 
-![InstallationNexum](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_lumasol_1_02232023.jpg)
+![236242997-af1521b6-af93-4ec6-8e4a-d9c783bb3e5a](https://user-images.githubusercontent.com/112189073/236247951-74e6986f-0624-473a-b66f-33855b24a3c3.jpg)
 
 ### Schéma d'installation
 
-![SchemaLuma](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_lumasol.png)
+![236242997-af1521b6-af93-4ec6-8e4a-d9c783bb3e5a](https://user-images.githubusercontent.com/112189073/236247951-74e6986f-0624-473a-b66f-33855b24a3c3.jpg)
 
 ### Sentiment Potentiel et Justification Rang
 
