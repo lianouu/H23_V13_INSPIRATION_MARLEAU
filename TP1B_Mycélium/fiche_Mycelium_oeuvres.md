@@ -35,7 +35,7 @@ Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel.
 
 ### Lien avec Mycelium
 
-Echonomarine est concentrer sur la nature mais plus précisement l'écosystème marine.
+Echonomarine est concentrer sur la nature mais plus précisement sur l'écosystème marine.
 
 ### L'installation en cours
 
@@ -43,11 +43,11 @@ Echonomarine est concentrer sur la nature mais plus précisement l'écosystème 
 
 ### Schéma d'installation
 
-![SchemaEchomarine](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_echomarine.png)
+![236238253-31dff80f-10c7-4f3f-9ce6-b04fe68078ce](https://user-images.githubusercontent.com/112189073/236245602-9b01fedc-3ba8-4ce4-8eff-c7e5c251a049.png)
 
 ### Sentiment Potentiel et Justification Rang
 
-Je pense que l'expérience sera très impressionante, en effet, les exemples et les animations montrés étaient très bien fait et donc j'ai des grandes expectations pour le projet.
+Je pense que l'installation sera impréssenante enb rapport avec le monde marin en le sensibilisant.
 
 ## [Nexum](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
