@@ -104,3 +104,6 @@ Traitement audiovisuel, Réalité mixte, Intéractivité ludique
 ## Technique que je ne connais pas beaucoup
 
 La technique que j'ai choisi est la réalité mixte. Il sagit d'intégré la 3D, les effets sonores, l'animation et les médias visuels. J'ai très envie d'apprendre les effets sonores et la réalité virtuelle. donc, j'ai très hate de voir le mélange des deux en un.
+
+
+## Site Internet de Mycélium https://tim-montmorency.com/2023/
