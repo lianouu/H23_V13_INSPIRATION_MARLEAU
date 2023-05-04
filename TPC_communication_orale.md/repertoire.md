@@ -52,3 +52,16 @@ L'installation est contemplatif.
 
 2 expositions porcelaines:
 ![236199925-fcd39d8c-10c0-4dd6-8c98-bcaa707bea7c](https://user-images.githubusercontent.com/112189073/236211186-4198bb02-374b-4bb2-8b97-702830b738d3.jpg)
+
+croquis: 
+<img width="230" alt="236200644-c8607a2a-7eb6-40ab-bea3-77120f7011dc" src="https://user-images.githubusercontent.com/112189073/236211439-f3e81ad0-8a1f-4d60-bbad-01103b79a43a.png">
+
+## Éléments necessaires à la mise en exposition ##
+
+Une table pour la porcelaine:
+![image](https://user-images.githubusercontent.com/112189073/236212084-d2e6c0da-7117-4129-b776-603425ff805f.png)
+
+source: https://www.wayfair.ca/Latitude-Run%C2%AE--Ergode-Northfield-Hall-Console-TableDesk-X121719199-L443-K~C010463125.html?refid=GX625097945664-C010463125_1217766371&device=c&ptid=1929325896182&targetid=pla-1929325896182&network=g&ireid=226323915&PiID%5B%5D=1217766371&gclid=Cj0KCQjwr82iBhCuARIsAO0EAZxHNnxbBfsLX9FvV0T_J9t2KOWfyksl_FqLRavSYadNN0uRfTl6NGsaAtouEALw_wcB
+
+2 clés USB pour les vidéos et les effets sonnores:
+![image](https://user-images.githubusercontent.com/112189073/236212576-ed4d39e3-3438-4696-9c6f-7dda2b63f0fb.png)
