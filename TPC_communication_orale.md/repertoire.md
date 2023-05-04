@@ -10,7 +10,7 @@
 L'exposition est d'intérieur et temporaire. J'ai visité cette oeuvre le 4 mars 2023.
 
 ## Titre des oeuvres ##
-Les jardins Impossibles, 2022,2023. Prophéties/la traverse, 2019-2023. Espèces envahissantes, 2022. Portable Landscape, 2022-2023. Les trous qui remplissent la langue, 2022-2023. La langue ne cesse de décevoir, 2023.
+Les jardins Impossibles, 2022,2023. Prophéties / La traverse, 2019-2023. Espèces envahissantes, 2022. Portable Landscape, 2022-2023. Les trous qui remplissent la langue, 2022-2023. La langue ne cesse de décevoir, 2023.
 
 ## Nom de l'artiste ##
 
@@ -56,6 +56,14 @@ L'installation est contemplatif.
 croquis: 
 <img width="230" alt="236200644-c8607a2a-7eb6-40ab-bea3-77120f7011dc" src="https://user-images.githubusercontent.com/112189073/236211439-f3e81ad0-8a1f-4d60-bbad-01103b79a43a.png">
 
+l'égende: 
+1: Les jardins impossibles
+2: Prophéties / La traverse
+3: Espèces envahissantes
+4: Portable Landscape
+5: Les trous qui remplissent la langue
+6: La langue ne cesse de décevoir
+
 ## Éléments necessaires à la mise en exposition ##
 
 Une table pour la porcelaine:
@@ -71,4 +79,15 @@ source: https://www.made-to-usb.com/cle-usb-usb002/
 ## Expérience vécue ## 
 
 Voici une vidéo qui montre l'oeuvre.
+
 https://www.youtube.com/watch?v=4LOKFvfSP28
+
+## Ce qui vous a plus ## 
+
+J'ai beaucoup aimé les détails de l'endroit et le fait qu'on nous propose plusieurs oeuvre qui se relie tous ensemble tout en restant dans la même pièce.
+
+site internet de La Galerie: https://galerie.uqam.ca/expositions/passage-a-decouvert-2023/
+
+## Aspect que vous ne souhaiteriez pas retenir ##
+
+Je ferais en sorte que le cartel soit diviser pour chaque oeuvre, pour que le visiteur puisse mieux comprendre c'est de quelle oeuvre on parle. Puis, en le faisant, je pourrais mieux expliquer l'oeuvre pour qu'on comprenne plus ce qu'on voit.
