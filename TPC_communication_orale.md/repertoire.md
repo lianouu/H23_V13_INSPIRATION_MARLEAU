@@ -25,7 +25,9 @@ Lynn Kodeih
 
 Des installations, différente vidéos entre 10 min 12s et 11 min 40s et deux extraits sonore entre 2 min 48s et 4 min 42s.
 ![236200027-c1b39029-351b-4ca2-9dfc-88fedcf09e94](https://user-images.githubusercontent.com/112189073/236207862-d7222f5b-70fa-4455-a9ff-31ad57072db9.jpg)
-![236199925-fcd39d8c-10c0-4dd6-8c98-bcaa707bea7c](https://user-images.githubusercontent.com/112189073/236207942-32454045-2a07-4a02-9dd2-a897![236200236-73e4fd11-9bc0-4f77-8f6e-3536dfcdfe95](https://user-images.githubusercontent.com/112189073/236208088-9017bfb5-6008-4641-8235-205b64cf5ddf.jpg)
-ed47b6f0.jpg)
 
+![236200236-73e4fd11-9bc0-4f77-8f6e-3536dfcdfe95](https://user-images.githubusercontent.com/112189073/236208505-e971bbb4-3745-486e-a8c7-7c0e156b0134.jpg)
 
+![236199925-fcd39d8c-10c0-4dd6-8c98-bcaa707bea7c](https://user-images.githubusercontent.com/112189073/236208625-6a6f198c-7b54-4233-bc3c-7adbb3d7890c.jpg)
+
+![236200537-3dbd2d59-797b-45a9-ae78-a010b444ff94](https://user-images.githubusercontent.com/112189073/236208702-4e5bbc36-3beb-462a-9862-ad2037ee9e32.jpg)
