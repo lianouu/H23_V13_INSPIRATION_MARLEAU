@@ -1,2 +1,2 @@
 # Realisateurs de ce projet:
-Sébastien Reilly, Sabrina Laforest, Alexendre Daniel et Maxime Des Lauriers
+Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
