@@ -65,3 +65,10 @@ source: https://www.wayfair.ca/Latitude-Run%C2%AE--Ergode-Northfield-Hall-Consol
 
 2 clés USB pour les vidéos et les effets sonnores:
 ![image](https://user-images.githubusercontent.com/112189073/236212576-ed4d39e3-3438-4696-9c6f-7dda2b63f0fb.png)
+
+source: https://www.made-to-usb.com/cle-usb-usb002/
+
+## Expérience vécue ## 
+
+Voici une vidéo qui montre l'oeuvre.
+https://www.youtube.com/watch?v=4LOKFvfSP28
