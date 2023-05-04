@@ -61,31 +61,25 @@ Autre
 22 ponts d'éclairage 1m
 4 ponts d'éclairage 2m
 
-<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_cache_fil_1.jpg" height="600">
-
-Liste de techniques: Installation multimédia, montage vidéo, traitement audiovisuel, audio
-
-<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_boulle_lumineuse_1.jpg" height="600">
-
 ## Éléments nécessaires à la mise en exposition
-Des éléments nécessaires à la mise en exposition sont des speakers, des ordinateurs, cables ethernet, proximity sensor, haut parleurs.
+
+![236272078-905d1361-0d53-4caf-bf7e-b71caed87705](https://user-images.githubusercontent.com/112189073/236272165-1006848e-0e7e-43d8-ba50-f0910f562632.png)
 
 ## Expérience vécue
-Le visiteur est attendu à regarder l'oeuvre et intéragir avec la tour centrale. En effet, grace au senseur, ils peuvent jouer des sons différents, et si tout les senseur sont affecté, une harmonie des 4 sons commencera à jouer. De plus, des lumières de couleurs différentes s'allumeront.
 
-<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_inside_pillier_millieux_feuille.jpg" height="600">
+Le visiteur est attendu à marcher dans le chemin pour faire en sorte de les lumières s'allumine et déclenche de la musique.
 
 ## Ce qui m'a plu.
-J'ai bien aimé le concept du projet, c'est aussi très créatif et unique, un projet donc je n'ai jamais vu quelque chose de similaire. Ensuite, les couleurs utilisés dans le projet sont vraiment belles et elles ont cette minutie intéressante. De plus, la trame sonore du projet est excellente, j'aimerais potentiellement créer quelque chose de similaire plus tard, et l'harmonie lorsque les 4 senseur sont affectés, il est vraiment bien realisé. Bref, j'aime beaucoup le projet.
+
+J'ai beaucoup aimé la lumière qui te suis et que la musique fait de même. L'oeuvre est très esthétique et je pourrais le voir hors de l'école.
 
 ## Aspect que vous ne souhaiteriez pas retenir ou que vous feriez autrement.
-Honnetement, il n'y a pas grand chose que je ne souhaiterais pas retenir a part peut-etre l'installation multimedia, en effet, c'est le seul aspect qui me semble le plus compliqué et qui ne m'intéresse pas.
 
-<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_interieur_boite.jpg" height="600">
+Je ne vois pas ce que je ne pourrais pas retenir. Hors le fait que durant le moment qu'on est aller le voir on n'avait pas assez de produit pour savoir ca serait quoi.
 
 ## Références
 Sites Visités:
-Tim Montmorency, https://tim-montmorency.com/2023/, consulté le 5 mai 2023.
+Tim Montmorency, https://tim-montmorency.com/2023/
 
 Photo: 
-Prise par Félix Lavoie
+Prise par l'équipe Nexum
