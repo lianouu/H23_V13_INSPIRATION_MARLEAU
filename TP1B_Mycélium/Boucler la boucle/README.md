@@ -1,2 +1,2 @@
 # Réalisateurs de ce projet:
-Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morisson.
+Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
