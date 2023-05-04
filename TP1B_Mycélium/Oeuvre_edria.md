@@ -10,96 +10,56 @@ C'est une exposition extérieure et temporaire.
 Le 23 mars 2023
 
 ## Titre de l'oeuvre
-Edria
+Nexum
 
-<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_vue_ensemble_4.jpg" height="600">
+![236237292-c415558a-9b76-4341-8947-f861e8fd9368](https://user-images.githubusercontent.com/112189073/236270284-3ffcd1b9-1ef0-4064-85d3-f13321965f98.jpg)
 
 ## Nom des créateurs
-Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir
+Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
 ## Année de réalisation
 2023
 
 ## Description de l'oeuvre
-"Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser..." (Repris du Site)
+"Une expérience lumineuse immersive, des animations sensationnelles et une ambiance musicale des plus spéciale. Ce parcours interactif permet la connexion entre l'humain et son espace tout en nous plongeant dans un environnement immersif enchanteur!" (Repris du Site)
 
 ## Type D'installation
-C'est une installation de type interactive
+C'est une installation de type immersive
 
-[Video Du Projet](https://www.youtube.com/watch?v=-R5Un0bGGN4)
+[https://www.youtube.com/watch?v=FZTJJEAaw8Y](https://www.youtube.com/watch?v=nYPI3L1SCVM)
 
 ## Mise En Place
 L'oeuvre est dehors, en avant du cégep,
 
-![plan](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_edria.png)
+https://www.youtube.com/watch?v=FZTJJEAaw8Y
 
-<img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_vue_ensemble_3.jpg" height="600">
+![236236991-b42e0f2a-79cd-4a87-8e8c-060beef93c43](https://user-images.githubusercontent.com/112189073/236270771-4a7b56b2-85bd-45ac-8794-5c7ff29b19ad.png)
 
 ## Composantes et techniques
 Liste de composantes:
-Poteaux
+Audio
 
-Pont d'éclairage (cr34te)
+8 haut-parleurs passifs de 4"
+8 amplis ip65
+1 carte de son 8 entrés
+Lumière
 
-1' x 1' x 8' (triangle)
-2' x 2' x 8' (carré)
-specifique
+200' strings festoon
+15 boules lumineuse 200 mm ip65
+11 boules lumineuses 36" ip65
+Électricité
 
-poteau 1
-speaker
-string festoon 15' (cr34te)
-fausse plante
-poteau 2
-speaker
-string festoon 15' (cr34te)
-fausse plante
-colorado
-poteau 3
-speaker
-string festoon 15' (cr34te)
-fausse plante
-poteau 4
-speaker
-string festoon 15' (cr34te)
-fausse plante
-colorado
-poteau 5
-speaker
-string festoon 15' (cr34te)
-fausse plante
-poteau 6
-speaker
-string festoon 15' (cr34te)
-fausse plante
-colorado
-poteau 7
-speaker
-string festoon 15' (cr34te)
-fausse plante
-poteau 8
-speaker
-string festoon 15' (cr34te)
-fausse plante
-colorado
-poteau M
-speaker
-arduino (2x) lien
-LED ALITOVE DC 12V WS2811 12mm
-Lumières adressables (x4)
-DMX Dot 5W (cr34te)
-DMX DOT STRING festoon ( (cr34te)
-DMX DOT clean (64) (cr34te)
-Boule Lumineuse 200mm (cr34te)
-Tubes Opal 0.5M (cr34te)
-Tubes Opal 1M (cr34te)
-COLORado 2 Solo (cr34te)
-fausse plante
-Cabanon central
+Alimentation électrique
+4 capteurs de mouvements
+4 m5atom poe
+1 switch poe
+Fils à haut-parleur 2 x 30m, 2 x 25m, 3 x 15m, 1 x 10m
+Autre
 
-mac mini
-Carte de son
-Amplificateurs
-V-Show Artnet RDM DMX Controller
+1 Macmini
+8 supports à haut-parleur
+22 ponts d'éclairage 1m
+4 ponts d'éclairage 2m
 
 <img src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/media_projet_aime/photo_cache_fil_1.jpg" height="600">
 
