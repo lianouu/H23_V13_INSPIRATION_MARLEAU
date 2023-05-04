@@ -10,7 +10,12 @@
 L'exposition est d'intérieur et temporaire. J'ai visité cette oeuvre le 4 mars 2023.
 
 ## Titre des oeuvres ##
-Les jardins Impossibles, 2022,2023. Prophéties / La traverse, 2019-2023. Espèces envahissantes, 2022. Portable Landscape, 2022-2023. Les trous qui remplissent la langue, 2022-2023. La langue ne cesse de décevoir, 2023.
+Les jardins Impossibles, 2022,2023.
+Prophéties / La traverse, 2019-2023.
+Espèces envahissantes, 2022.
+Portable Landscape, 2022-2023.
+Les trous qui remplissent la langue, 2022-2023.
+La langue ne cesse de décevoir, 2023.
 
 ## Nom de l'artiste ##
 
