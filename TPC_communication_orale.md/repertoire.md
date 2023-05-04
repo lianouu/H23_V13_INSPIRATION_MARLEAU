@@ -31,3 +31,24 @@ Des installations, différente vidéos entre 10 min 12s et 11 min 40s et deux ex
 ![236199925-fcd39d8c-10c0-4dd6-8c98-bcaa707bea7c](https://user-images.githubusercontent.com/112189073/236208625-6a6f198c-7b54-4233-bc3c-7adbb3d7890c.jpg)
 
 ![236200537-3dbd2d59-797b-45a9-ae78-a010b444ff94](https://user-images.githubusercontent.com/112189073/236208702-4e5bbc36-3beb-462a-9862-ad2037ee9e32.jpg)
+
+## Type d'installation ##
+
+L'installation est contemplatif.
+
+## Mise en place ##
+
+2 haut-parleurs sol:
+![236200483-c400281f-e7a6-422e-a2d9-7c57ca0dff7a](https://user-images.githubusercontent.com/112189073/236209133-4e7c5ecc-9721-4694-a548-c4da4dc48c29.jpg)
+
+3 haut-parleurs mur:
+![236200590-92acb2a3-b834-45df-a42a-1de867d44cff](https://user-images.githubusercontent.com/112189073/236209345-9843f4a1-dc6a-457c-85ed-7e02fc60cf07.jpg)
+
+2 projecteurs:
+![236210069-c823b7c8-3cb3-4b52-9d26-712cdc39a24c](https://user-images.githubusercontent.com/112189073/236210105-5f6468f8-82b0-475f-a9b1-e4bbe7724f7a.png)
+
+1 écrans deux côtés:
+![236200236-73e4fd11-9bc0-4f77-8f6e-3536dfcdfe95](https://user-images.githubusercontent.com/112189073/236210597-ba227a15-2cd5-446d-b6af-5076528364d3.jpg)
+
+2 expositions porcelaines:
+![236199925-fcd39d8c-10c0-4dd6-8c98-bcaa707bea7c](https://user-images.githubusercontent.com/112189073/236211186-4198bb02-374b-4bb2-8b97-702830b738d3.jpg)
