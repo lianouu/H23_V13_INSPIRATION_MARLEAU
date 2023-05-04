@@ -88,7 +88,7 @@ C'est un projet qui veut ramener la connection entre les humain et la nature en 
 
 ### Schéma d'installation
 
-![SchemaBoucle](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_bouclerlaboucle.png)
+![simulation.md](https://user-images.githubusercontent.com/112189073/236240042-86827974-f674-4d20-a819-3f097b963061.png)
 
 ### Sentiment Potentiel et Justification Rang
 
