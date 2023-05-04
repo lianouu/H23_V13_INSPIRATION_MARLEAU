@@ -12,28 +12,34 @@ C'est un écosystème qui relie la nature et le multimédia.
 
 ### L'installation en cours
 
-![InstallationEdria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_edria_1_02232023.jpg)
+![236239612-f843ce21-14ca-44db-b80e-6f752ba638bd](https://user-images.githubusercontent.com/112189073/236242393-3c0807fd-b443-4645-8568-b6f97f404b8d.jpg)
 
 ### Schéma d'installation
 
-![SchemaEdria](https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/schema_edria.png)
+![236242997-af1521b6-af93-4ec6-8e4a-d9c783bb3e5a](https://user-images.githubusercontent.com/112189073/236243298-276f5d60-1bcc-4410-9f36-7c807ff3bbd9.jpg)
+
+### Scénarimage
+
+![236243171-de60b797-f3a3-4deb-9cd7-2f65930f14bd](https://user-images.githubusercontent.com/112189073/236243938-c0a8dc8d-b868-4808-abd5-744ab228709a.png)
 
 ### Sentiment Potentiel et Justification Rang
-Je pense etre impressionné par l'oeuvre. En effet, elle me semble etre sophistiqué et surtout pour le temps qu'ils ont pris et la multitude de nouvelles connaissances a apprendre pour le projet, je sens que ceci sera très intéressant.
+Je suis impressionné par l'oeuvre et comment elle est sophistiquement fait.
 
 ## [Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-### Créateurs/Créatrices
+## Réalisatrices de ce projet: ##
 
-Florence Lapierre, Natasha Abdhalla, Tracy Gua, Maria Laura Coronel
+![236238689-59a95b81-9efd-4113-ab57-2c839b6048cc](https://user-images.githubusercontent.com/112189073/236244595-5b5117d1-0746-4106-950d-36df1e13558c.jpg)
+
+Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel.
 
 ### Lien avec Mycelium
 
-Les deux sont basé sur la nature, cependant echomarine ce concentre plus sur l'écosystème marin.
+Echonomarine est concentrer sur la nature mais plus précisement l'écosystème marine.
 
 ### L'installation en cours
 
-<img height="600" src="https://github.com/Jxshvfx/H23_V13_inspirations_GONZALEZBARRERA/blob/main/Mycelium/medias/photo_echomarine_installation.JPG">
+![236244947-51f4cdef-f51d-4b26-a841-62379ad03fb1](https://user-images.githubusercontent.com/112189073/236245074-8045a619-e9d2-4544-b7c2-bcfe00b170ff.png)
 
 ### Schéma d'installation
 
